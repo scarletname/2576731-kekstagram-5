@@ -11,7 +11,7 @@
     "url": "https://github.com/htmlacademy-univer-javascript-1/2576731-kekstagram-5/issues"
   },
   "devDependencies": {
-    "browser-sync": "2.29.3",
+    "browser-sync": "^3.0.3",
     "eslint": "8.42.0",
     "eslint-config-htmlacademy": "9.1.1"
   },
@@ -21,7 +21,7 @@
     "lint": "eslint js/"
   },
   "engines": {
-    "node": "18",
-    "npm": "9"
+    "node": "v22.11.0",
+    "npm": "10.9.0"
   }
 }
