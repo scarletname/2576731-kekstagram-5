@@ -54,9 +54,6 @@ const getPositiveInteger = function (param) {
       answer = answer + param[i];
     }
   }
-  // if (answer === '') {
-  //   return NaN;
-  // }
   return parseInt(answer);
 };
 
