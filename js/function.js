@@ -54,7 +54,7 @@ const getPositiveInteger = function (param) {
       answer = answer + param[i];
     }
   }
-  return parseInt(answer);
+  return parseInt(answer, 10);
 };
 
 getPositiveInteger('2023 год'); // 2023
